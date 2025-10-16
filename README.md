@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Mon Béo
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình chatbot được tạo ra từ Mon Béo
 
 
